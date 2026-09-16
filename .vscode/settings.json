@@ -1,0 +1,5 @@
+{
+  "dbt.dbtIntegration": "core",
+  "dbt.dbtPythonPathOverride": "${workspaceFolder}\\.venv\\Scripts\\python.exe",
+  "dbt.perspectiveTheme": "Pro Dark"
+}
